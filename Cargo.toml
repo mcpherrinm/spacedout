@@ -1,0 +1,6 @@
+[package]
+name = "spacedout"
+version = "0.0.1"
+authors = ["Matthew McPherrin <git@mcpherrin.ca>"]
+
+[dependencies]
