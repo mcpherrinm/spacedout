@@ -1,5 +1,5 @@
-pub fn test() {
-    println!("Hello, Librarian!");
+pub fn test(path: &str) {
+    println!("Hello, {}!", path);
 }
 
 #[cfg(test)]
